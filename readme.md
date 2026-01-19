@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Zain Pasha**  
+# 👋 Hi,
 ### 🚀 AI & Machine Learning Engineer | LLMs | Predictive Analytics | MLOps
 
 Want to turn your **data into profit-driving insights** and **automate complex workflows** using AI?  
